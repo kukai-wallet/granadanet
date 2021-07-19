@@ -1,1 +1,1 @@
-# granadanet
+# granadanet.kukai.app
